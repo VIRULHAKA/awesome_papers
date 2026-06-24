@@ -19,6 +19,8 @@ There are two standard paradigms of self-supervised pre-training: masked reconst
 This is like what I did in this semester: it was I who decided the positive pairs of PPG and GSR signals, even though using the segmentation of the same temporal period seems logical. 
 Of course, reducing inducting human bias is important in pursuing "ground truth". However, is it reasonable to leave out the distribution of humans?
 ## Insight & Novelty
+MAE：
+预选loss高的图片 + leave out low color entropy images
 They improved MAE by introducing four key designs. 
 1. Deeper encoder
 2. Larger mask block 
