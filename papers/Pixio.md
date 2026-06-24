@@ -1,9 +1,13 @@
 # In Pursuit of Pixel Supervision for Visual Pre-training
 
 **来源** CVPR 2026
+
 **作者** Lihe Yang et al. 
+
 **arXiv** https://arxiv.org/abs/2512.15715
+
 **Code** https://github.com/facebookresearch/pixio
+
 **阅读日期** 2026/6/23
 
 
