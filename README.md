@@ -6,6 +6,7 @@ This is a repository where I keep my comments for awesome papers. I also put key
 | ------ | ------ | ------ | ------ |
 | 2026 | Provably Contractive and High-Quality Denoisers for Convergent Restoration | CV + restoration | [ProvablyContractiveDenoiser](papers/Provably_contractive_denoiser.md) |
 | 2025 | In Pursuit of Pixel Supervision for Visual Pre-training | CV + masked reconstruction | [Pixio](papers/Pixio.md) | 
+| 2022 | SigRep: Toward Robust Wearable Emotion Recognition With Contrastive Representation Learning | Wearbale + Representative Learning | [SigRep](papers/SigRep.md) |
 
 
 ## Concepts

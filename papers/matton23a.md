@@ -13,8 +13,11 @@
 ---
 
 ## Task
+stress detection
 ## Insight & Novelty
 Features:
 ![EDA_Features](EDAFeatures.png)
+
+各种不同的augmentation strategies来构建正样本对-->contrastive learning
 ## WHY USEFUL?
 ## I still don't get it
